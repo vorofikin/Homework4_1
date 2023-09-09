@@ -1,0 +1,5 @@
+*.beam
+.erlang.mk
+.idea
+ebin
+_build
